@@ -1,6 +1,6 @@
  # EXP 2 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 ## NAME: ANISH RAJ P
-## REG NO: 21222222230010
+## REG NO: 212222230010
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
 
