@@ -24,9 +24,6 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
-### REG NO: 212222230028
-### NAME: DEEPIKA S
-
 ## OUTPUT
 
 ### ROOT USER:
